@@ -1,2 +1,2 @@
-# data-science-Masters
+# my linux codes
 This is my self practised code;
