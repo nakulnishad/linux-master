@@ -1,2 +1,1 @@
-# my linux codes
-This is my self practised code;
+#this is my Sql practise set
